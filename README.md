@@ -9,7 +9,7 @@ The Nebula Core is a RISC-V Core that uses RV64I ISA and Dual ALU Operations wit
 ## Features
 
 * **Instruction Set Architecture (ISA):** RISC-V (RV64I)
-* * **Pipeline:** 8 stage in-order
+* **Pipeline:** 8 stage in-order
 * **Additional Resources:**
   * Cache L1 and L2
   * Linux Support (RV64)
