@@ -15,7 +15,8 @@ The Nebula Core is a RISC-V Core that uses RV64I ISA and Dual ALU Operations wit
   * Linux Support (RV64)
 
 ## Repository Structure
-/
+
+nebula-core/
 ├── doc/                # Project Documentation
 ├── rtl/                # Source-code in SystemVerilog/VHDL
 │   ├── core/           # The Core code
